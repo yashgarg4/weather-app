@@ -149,4 +149,4 @@ else:
                     st.markdown("### LLM Response:")
                     st.markdown(llm_response)
         else: # Only show warning if submit was pressed with empty input
-            st.warning("Please enter a question for the LLM.")
+            st.warning("Please enter a question for the LLM.") 
