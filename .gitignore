@@ -60,7 +60,7 @@ env.bak/
 venv.bak/
 
 # Streamlit
-.streamlit/
+.streamlit/secrets.toml
 
 # IDE / Editor specific
 .vscode/
